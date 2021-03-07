@@ -15,3 +15,10 @@ Books and Papers  in Mathematics, Econometrics, Machine Learning, Finance etc fo
   width="200" height="300">
 </a>
 <br>
+
+
+## Econometrics Books 
+<a align="left" href="https://github.com/TatevKaren/free-resources-books-papers/blob/main/Econometric_Analysis_Book.pdf">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/81MaAqXkmUL.jpg?raw=true"
+  width="200" height="300">
+</a>
