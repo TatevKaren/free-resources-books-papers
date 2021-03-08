@@ -26,7 +26,7 @@ Books and Papers  in Mathematics, Econometrics, Machine Learning, Finance etc fo
 <br>
 <br>
 
-## Databricks and Delta-lake for developers
+## Databricks and Delta-Lake for developers
 <a align="left" href="https://github.com/TatevKaren/free-resources-books-papers/blob/main/Apache-spark-and-delta-lake-for-developers.pdf">
   <img src="https://databricks.com/wp-content/uploads/2020/01/OG_Image_2.jpg?raw=true"
   width="400" height="200">
