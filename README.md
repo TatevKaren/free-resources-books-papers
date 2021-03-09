@@ -35,7 +35,7 @@ Books and Papers  in Mathematics, Econometrics, Machine Learning, Finance etc fo
 <br>
 
 ## Probability and Statistics
-<a align="left" href="https://github.com/TatevKaren/free-resources-books-papers/blob/main/Probability%20%26%20Statistics.pdf"
+<a align="left" href="https://github.com/TatevKaren/free-resources-books-papers/blob/main/Probability%20%26%20Statistics.pdf">
   <img src="https://images-na.ssl-images-amazon.com/images/I/71Tn%2Bp6OoSL._AC_UL600_SR453,600_.jpg?raw=true" width="200" height="300">
 </a>
 <br>
