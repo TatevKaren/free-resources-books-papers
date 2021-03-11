@@ -40,4 +40,11 @@
 <br>
 <br>
 
+## SharePoint in HTML and Java Script
+<a align="left" href="https://github.com/TatevKaren/free-resources-books-papers/blob/main/Probability%20%26%20Statistics.pdf">
+  <img src="https://kbimages1-a.akamaihd.net/f6401949-32e5-4d28-85f1-1a9a1e920128/166/300/False/custom-sharepoint-solutions-with-html-and-javascript.jpg?raw=true" width="200" height="300">
+</a>
+<br>
+<br>
+
 
