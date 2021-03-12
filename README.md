@@ -1,5 +1,5 @@
 # free-resources-books-papers
-## Learning Python 
+## Data Analysis  
 
 <a align="left" href="https://github.com/TatevKaren/free-resources-books-papers/blob/main/Python-for-Data-Analysis-2nd-Edition.pdf">
   <img src="https://images-na.ssl-images-amazon.com/images/I/912I2EtdCbL.jpg?raw=true"
