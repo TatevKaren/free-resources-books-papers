@@ -1,4 +1,10 @@
 # free-resources-books-papers
+## Learning Python 
+
+<a align="left" href="https://github.com/TatevKaren/free-resources-books-papers/blob/main/Machine%20Learning.pdf">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/912I2EtdCbL.jpg?raw=true"
+  width="200" height="300">
+</a>
 
 ## Machine Learning Books 
  
