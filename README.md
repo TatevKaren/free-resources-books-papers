@@ -24,8 +24,7 @@
 <br>
 
 <a align="left" href="https://github.com/TatevKaren/free-resources-books-papers/blob/main/The%20Big%20Book%20of%20Machine%20Learning%20Use%20Case.pdf">
-  <img src="https://static.wixstatic.com/media/428e50_3fa5995ea1a94099aafc28f225b8c0a2~mv2.jpg/v1/fill/w_380,h_208,al_c,q_80,usm_0.66_1.00_0.01/ebook-machine%20learning-01.webp
-?raw=true"
+  <img src="https://static.wixstatic.com/media/428e50_3fa5995ea1a94099aafc28f225b8c0a2~mv2.jpg/v1/fill/w_380,h_208,al_c,q_80,usm_0.66_1.00_0.01/ebook-machine%20learning-01.webp?raw=true"
   width="200" height="300">
 </a> 
 <br>
