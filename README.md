@@ -68,4 +68,12 @@
 <br>
 <br>
 
+##
+<a align="left" href="https://github.com/TatevKaren/free-resources-books-papers/blob/main/DataEngineering_HandBook.pdf">
+  <img src="https://github.com/andkret/Cookbook/blob/master/images/CookbookCover.jpg?raw=true?raw=true" width="200" height="300">
+</a>
+<br>
+<li><a href="https://github.com/andkret/Cookbook"> Additional Resources (code etc)</a></li>
+<br>
+
 
